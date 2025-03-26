@@ -1219,3 +1219,104 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.26-10.06.55:720][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2025.03.26-10.06.55:722][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2025.03.26-10.06.55:726][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.03.26-10.09.45:489][ 91]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Git_Unreal/UE_AssetImport/AssetImport/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.26-10.09.45:489][ 91]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Git_Unreal/UE_AssetImport/AssetImport/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.26-10.09.45:489][ 91]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Git_Unreal/UE_AssetImport/AssetImport/Content/Developers/CarolineFangel/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.26-10.10.14:498][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 355.649017
+[2025.03.26-10.10.15:497][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-10.10.15:497][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 356.315247, Update Interval: 359.840698
+[2025.03.26-10.11.33:345][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.26-10.11.33:553][535]LogTexture: Display: Building textures: /Game/MesoamericaConstructions/Textures/T_rock_dirty_bc.T_rock_dirty_bc (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.26-10.11.33:743][535]LogTexture: Display: Building textures: /Game/MesoamericaConstructions/Textures/T_rock_dirty_n.T_rock_dirty_n (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2025.03.26-10.11.33:837][535]LogTexture: Display: Building textures: /Game/MesoamericaConstructions/Textures/T_rock_dirty_r.T_rock_dirty_r (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_002...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_001...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_003...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_004...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_005...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_009...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_006...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_007...
+[2025.03.26-10.11.33:889][535]LogStaticMesh: Display: Building static mesh SM_construction_008...
+[2025.03.26-10.11.33:910][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.11.33:914][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MesoamericaConstructions/Maps/PreviewMap.PreviewMap
+[2025.03.26-10.11.33:915][535]Cmd: MAP LOAD FILE="D:/Git_Unreal/UE_AssetImport/AssetImport/Content/MesoamericaConstructions/Maps/PreviewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-10.11.33:915][535]LightingResults: New page: Lighting Build
+[2025.03.26-10.11.33:915][535]LoadErrors: New page: Loading map: PreviewMap.umap
+[2025.03.26-10.11.33:936][535]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.11.33:936][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.11.33:938][535]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2025.03.26-10.11.33:939][535]MapCheck: New page: Map Check
+[2025.03.26-10.11.33:939][535]LightingResults: New page: Lighting Build
+[2025.03.26-10.11.33:943][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-10.11.33:965][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.26-10.11.33:968][535]LogStaticMesh: Display: Building static mesh SM_construction_010...
+[2025.03.26-10.11.33:984][535]LogStaticMesh: Display: Waiting for static meshes to be ready 0/10 (/Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_010) ...
+[2025.03.26-10.11.35:774][535]LogStaticMesh: Built static mesh [1.88s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_003.SM_construction_003
+[2025.03.26-10.11.35:916][535]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2025.03.26-10.11.36:105][535]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.188494s
+[2025.03.26-10.11.37:804][535]LogStaticMesh: Built static mesh [3.91s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_004.SM_construction_004
+[2025.03.26-10.11.38:438][535]LogStaticMesh: Built static mesh [4.55s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_009.SM_construction_009
+[2025.03.26-10.11.39:368][535]LogStaticMesh: Built static mesh [5.48s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_002.SM_construction_002
+[2025.03.26-10.11.39:399][535]LogStaticMesh: Built static mesh [5.51s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_005.SM_construction_005
+[2025.03.26-10.11.41:518][535]LogStaticMesh: Built static mesh [7.63s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_007.SM_construction_007
+[2025.03.26-10.11.42:299][535]LogStaticMesh: Built static mesh [8.41s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_006.SM_construction_006
+[2025.03.26-10.11.42:549][535]LogStaticMesh: Built static mesh [8.66s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_008.SM_construction_008
+[2025.03.26-10.11.43:256][535]LogStaticMesh: Built static mesh [9.37s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_001.SM_construction_001
+[2025.03.26-10.11.43:971][535]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2025.03.26-10.11.44:042][535]LogStaticMesh: Built static mesh [10.08s] /Game/MesoamericaConstructions/Meshes/Constructions/SM_construction_010.SM_construction_010
+[2025.03.26-10.11.44:094][535]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.124291s
+[2025.03.26-10.11.44:697][535]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 10.729720s (0.729720s overbudget)
+[2025.03.26-10.11.46:835][535]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x70 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 73% occupied, 19237 triangles, SM_construction_004
+[2025.03.26-10.11.47:548][535]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x105 sparse distance field, 2.0Mb total, 0.0Mb always loaded, 68% occupied, 36683 triangles, SM_construction_003
+[2025.03.26-10.11.47:566][535]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 59% occupied, 120613 triangles, SM_construction_010
+[2025.03.26-10.11.48:984][535]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 31481 triangles, SM_construction_002
+[2025.03.26-10.11.49:366][535]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 150164 triangles, SM_construction_009
+[2025.03.26-10.11.50:949][535]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 179660 triangles, SM_construction_008
+[2025.03.26-10.11.51:067][535]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x105 sparse distance field, 2.1Mb total, 0.0Mb always loaded, 72% occupied, 55509 triangles, SM_construction_005
+[2025.03.26-10.11.52:460][535]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 52% occupied, 137985 triangles, SM_construction_007
+[2025.03.26-10.11.54:188][535]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x112 sparse distance field, 2.3Mb total, 0.0Mb always loaded, 76% occupied, 32571 triangles, SM_construction_006
+[2025.03.26-10.11.55:338][535]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 86850 triangles, SM_construction_001
+[2025.03.26-10.11.55:921][535]LogWorld: UWorld::CleanupWorld for PreviewMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.11.55:921][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.11.55:928][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.26-10.11.55:929][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.26-10.11.55:990][535]LogAudio: Display: Audio Device (ID: 1) registered with world 'PreviewMap'.
+[2025.03.26-10.11.55:990][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.11.55:990][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-10.11.55:990][535]LogAIModule: Creating AISystem for world PreviewMap
+[2025.03.26-10.11.56:008][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-10.11.56:022][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.26-10.11.56:024][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-10.11.56:024][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,06ms to complete.
+[2025.03.26-10.11.56:026][535]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 22.111726s (20.111726s overbudget)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: ================================================
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 6 distinct outputs (75.00%)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: RAM used: 193,45 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.12 s
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 0.43 s
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 0.43
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Shader code size: average 41,194 KiB, min 32,465 KiB, max 61,461 KiB
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.43 s
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Average processing rate: 18.42 jobs/sec
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Total thread time: 1,416 s
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Total thread preprocess time: 0,19 s
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Percentage time preprocessing: 13.42%
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Effective parallelization: 3.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.17 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.10 sec, max 0.11 sec, min 0.09 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 33.40% of total time (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 26.68% of total time (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.73% of total time (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.17 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.18% of total time (compiled    2 times, average 0.10 sec, max 0.11 sec, min 0.09 sec)
+[2025.03.26-10.11.56:565][538]LogShaderCompilers: Display: ================================================
